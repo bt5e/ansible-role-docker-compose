@@ -3,6 +3,7 @@
   get_url:
     url: "{{ docker_compose_download_url }}"
     dest: "{{ docker_compose_bin_path }}"
+    checksum: "{{ docker_compose_checksum }}"
     owner: root
     group: root
     mode: 0755
