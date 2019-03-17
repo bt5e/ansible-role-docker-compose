@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: docker_compose
   author: Ben Tse
   description: Docker Compose
   license: MIT
