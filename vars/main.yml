@@ -1,5 +1,5 @@
 ---
 docker_compose_version: 1.29.1
-docker_compose_checksum: "sha256:https://github.com/docker/compose/releases/download/{{ docker_compose_version }}/docker-compose-Linux-x86_64.sha256"
+docker_compose_checksum: "sha256:8097769d32e34314125847333593c8edb0dfc4a5b350e4839bef8c2fe8d09de7"
 docker_compose_download_url: "https://github.com/docker/compose/releases/download/{{ docker_compose_version }}/docker-compose-Linux-x86_64"
 docker_compose_bin_path: "/usr/local/bin/docker-compose"
